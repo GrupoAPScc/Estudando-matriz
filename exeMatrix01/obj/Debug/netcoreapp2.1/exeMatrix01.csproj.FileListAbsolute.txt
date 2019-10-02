@@ -1,0 +1,11 @@
+C:\csharp\exeMatrix01\exeMatrix01\bin\Debug\netcoreapp2.1\exeMatrix01.deps.json
+C:\csharp\exeMatrix01\exeMatrix01\bin\Debug\netcoreapp2.1\exeMatrix01.runtimeconfig.json
+C:\csharp\exeMatrix01\exeMatrix01\bin\Debug\netcoreapp2.1\exeMatrix01.runtimeconfig.dev.json
+C:\csharp\exeMatrix01\exeMatrix01\bin\Debug\netcoreapp2.1\exeMatrix01.dll
+C:\csharp\exeMatrix01\exeMatrix01\bin\Debug\netcoreapp2.1\exeMatrix01.pdb
+C:\csharp\exeMatrix01\exeMatrix01\obj\Debug\netcoreapp2.1\exeMatrix01.csprojAssemblyReference.cache
+C:\csharp\exeMatrix01\exeMatrix01\obj\Debug\netcoreapp2.1\exeMatrix01.csproj.CoreCompileInputs.cache
+C:\csharp\exeMatrix01\exeMatrix01\obj\Debug\netcoreapp2.1\exeMatrix01.AssemblyInfoInputs.cache
+C:\csharp\exeMatrix01\exeMatrix01\obj\Debug\netcoreapp2.1\exeMatrix01.AssemblyInfo.cs
+C:\csharp\exeMatrix01\exeMatrix01\obj\Debug\netcoreapp2.1\exeMatrix01.dll
+C:\csharp\exeMatrix01\exeMatrix01\obj\Debug\netcoreapp2.1\exeMatrix01.pdb
